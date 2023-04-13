@@ -1,0 +1,158 @@
+.main-div {
+  max-width: 700px;
+  min-height: 700px;
+}
+
+.header {
+  font-size: 55px;
+  font-family: "Times New Roman", Times, serif;
+  color: #fff;
+}
+
+span {
+  color: rgb(219, 84, 35);
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.main-paragraph {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #fff;
+  padding-top: 20px;
+}
+
+.main-btn {
+  width: 150px;
+  height: 40px;
+  border-radius: 8px;
+  border: none;
+  transition: 1s;
+  font-size: 20px;
+  margin-top: 30px;
+  background-color: rgb(219, 84, 35);
+}
+
+.main-btn:hover {
+  color: #fff;
+  transition: 1s;
+  background-color: rgba(0, 113, 43, 0.389);
+}
+.main-card {
+  width: 400px;
+  height: 550px;
+  background-color: rgba(0, 0, 0, 0.299);
+  box-shadow: 0px 0px 3px 0px #000;
+  border-radius: 10px;
+  margin-left: 550px;
+  margin-top: 70px;
+}
+.main-second-btn {
+  width: 350px;
+  margin-left: 25px;
+  height: 60px;
+  margin-top: 20px;
+  border-radius: 15px;
+  border: none;
+}
+.main-header-second {
+  font-size: 30px;
+  margin-top: 10px;
+  color: rgb(219, 84, 35);
+  margin-left: 10px;
+}
+
+.main-input {
+  width: 350px;
+  margin-left: 25px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 50px;
+  border: 2px solid rgb(219, 84, 35);
+  background: none;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+.main-input:focus {
+  outline: none;
+  color: #fff;
+}
+
+::placeholder {
+  color: #fff;
+}
+
+.main-last-btn {
+  width: 350px;
+  margin-left: 25px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 15px;
+  border: none;
+  transition: 1s;
+  background-color: rgb(219, 84, 35);
+}
+.sing-up {
+  text-decoration: none;
+  color: rgb(219, 84, 35);
+}
+.login-secondry {
+  text-decoration: none;
+  color: #06c95a;
+}
+.main-last-btn:hover {
+  background-color: rgb(51, 8, 87);
+  color: #fff;
+  transition: 1s;
+}
+
+.main-header {
+  color: #fff;
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.main-second-header {
+  padding-left: 140px;
+  color: #fff;
+}
+
+.main-headers-spn {
+  color: rgb(219, 84, 35);
+  font-size: 33px;
+  margin-left: -40px;
+  font-family: sans-serif;
+}
+
+.facebook-icon {
+  width: 50px;
+  margin-top: 5px;
+  transition: 1s;
+  margin-left: 20px;
+}
+
+.facebook-icon:hover {
+  background-color: #fff;
+  border-radius: 50%;
+  transition: 1s;
+}
+
+#btn {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: none;
+  font-size: 40px;
+  position: absolute;
+  transition: 1s;
+  margin-left: 25px;
+  margin-top: -500px;
+}
+
+#btn:hover {
+  background: #fff;
+  transition: 1s;
+}
